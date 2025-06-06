@@ -1,0 +1,14 @@
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ChallengeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ChallengeProgram.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ChallengeProgram.AssemblyInfo.cs
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ChallengeProgram.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ChallengeProgram.exe
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ChallengeProgram.deps.json
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ChallengeProgram.runtimeconfig.json
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ChallengeProgram.dll
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ChallengeProgram.pdb
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ChallengeProgram.dll
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ChallengeProgram.dll
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ChallengeProgram.pdb
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ChallengeProgram.genruntimeconfig.cache
+C:\Users\pedro\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ChallengeProgram.dll
