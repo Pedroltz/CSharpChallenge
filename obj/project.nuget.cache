@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0Osaa7j52I=",
+  "dgSpecHash": "cdpmLR9wG1A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\Desktop\\ConsoleApp1\\ConsoleApp1\\ChallengeProgram.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\Desktop\\ConsoleApp1\\ConsoleApp1\\CSharpChallenge\\ChallengeProgram.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.16\\microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
   ],
