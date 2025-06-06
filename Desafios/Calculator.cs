@@ -61,7 +61,6 @@ namespace ChallengeProgram.Desafios
             Console.Clear();
 
             double resultado = 0;
-            bool operacaoValida = true;
 
             try
             {
@@ -88,7 +87,6 @@ namespace ChallengeProgram.Desafios
             catch (DivideByZeroException)
             {
                 Console.WriteLine("Erro: Divisão por zero!");
-                operacaoValida = false;
             }
 
             Console.WriteLine("Pressione ENTER para sair...");
